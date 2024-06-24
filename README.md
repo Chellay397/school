@@ -1,1 +1,1 @@
-# school-portfolio
+# school
